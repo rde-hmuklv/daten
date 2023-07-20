@@ -1,0 +1,7 @@
+indicator_name: Armutsgefährungsquote in Hessen 2005 bis 2019 (in %)
+indicator_number: 1.1.1
+computation_units: Percentage
+source_active_1: true
+source_organisation_1: Amtliche Sozialberichterstattung
+source_url_1: "https://wetlandstaticsagency.org"
+reporting_status: complete
