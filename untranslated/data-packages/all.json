@@ -17,12 +17,13 @@
             "type": "integer"
           },
           {
-            "name": "Group",
+            "name": "Armutsgefaehrdungsquote",
             "type": "string",
             "constraints": {
               "enum": [
                 "A",
                 "B",
+                "C",
                 ""
               ]
             }

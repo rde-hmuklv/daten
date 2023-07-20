@@ -18,16 +18,17 @@
             "title": "Jahr"
           },
           {
-            "name": "Group",
+            "name": "Armutsgefaehrdungsquote",
             "type": "string",
             "constraints": {
               "enum": [
                 "A",
                 "B",
+                "C",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Armutsgefaehrdungsquote"
           },
           {
             "name": "Value",
