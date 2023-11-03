@@ -1,0 +1,6 @@
+indicator_name: "12.1 Endenergieverbrauch der privaten Haushalte (Zielindikator)"
+indicator_number: 12.1
+computation_units: "GJ je Einwohner"
+source_active_1: true
+source_organisation_1:  "Arbeitskreis „Umweltökonomische Gesamtrechnungen der Länder“, Arbeitsgemeinschaft Energiebilanzen."
+reporting_status: complete
