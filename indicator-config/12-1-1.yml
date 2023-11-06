@@ -1,5 +1,9 @@
-﻿composite_breakdown_label: ''
-computation_units: ''
+indicator_name: 12.1.1 Endenergieverbrauch der privaten Haushalte (Zielindikator)
+indicator_number: 12.1.1
+computation_units: GJ je Einwohner
+unit: Total
+reporting_status: complete
+composite_breakdown_label: ''
 copyright: ''
 data_footnote: ''
 data_non_statistical: false
@@ -26,7 +30,6 @@ national_geographical_coverage: ''
 page_content: ''
 permalink: ''
 precision: []
-reporting_status: notstarted
 sort: ''
 standalone: false
 tags: []
