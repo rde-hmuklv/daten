@@ -1,7 +1,98 @@
-indicator_name: 12.1.1 Endenergieverbrauch der privaten Haushalte (Zielindikator)
-indicator_number: 12.1.1
-computation_units: GJ je Einwohner
-unit: Total
-source_active_1: true
-source_organisation_1:  Arbeitskreis Umweltökonomische Gesamtrechnungen der Länder, Arbeitsgemeinschaft Energiebilanzen.
-reporting_status: complete
+SDG_INDICATOR__GLOBAL: >-
+  <p>Indicator 12.1.1: Number of countries developing, adopting or implementing
+  policy instruments aimed at supporting the shift to sustainable consumption
+  and production</p>
+SDG_TARGET__GLOBAL: >-
+  <p>Target 12.1: Implement the 10&#x2011;Year Framework of Programmes on
+  Sustainable Consumption and Production Patterns, all countries taking action,
+  with developed countries taking the lead, taking into account the development
+  and capabilities of developing countries</p>
+META_LAST_UPDATE__GLOBAL: <p>2021-12-06</p>
+SDG_CUSTODIAN_AGENCIES__GLOBAL: <p>United Nations Environment Programme (UNEP)</p>
+SDG_RELATED_INDICATORS__GLOBAL: >-
+  <p>The 10-year framework of programmes on Sustainable Consumption and
+  Production is linked to all targets of SDG 12, literature research shows that
+  SDG 12 is connected to a total of 14 other SDGs - making SCP the number one
+  most cross-cutting theme across the SDGs.</p>
+
+  <p>Main Associated SDG indicators: </p>
+
+  <p>12.7.1 # of countries implementing sustainable public procurement policies
+  and action plans; </p>
+
+  <p>Linked SDGs: 12.2.1/8.4.1, 12.2.2/8.4.2, 12.3.1, 12.5.1., 12.6.1, 12.8.1,
+  12.A.1, 12.b.1, 12.c.1, 13.2.1, 14.c.1, 14.6.1,15.8.1 </p>
+
+  <p>Considering that the development, adoption and implementation of policy
+  instruments integrating SCP are creating the enabling environment for
+  sustainable development, there are potentially many more associated SDGs,
+  targets and indicators.</p>
+SDG_INDICATOR_INFO: >-
+  Der Indikator beschreibt den Endenergieverbrauch (EEV), d. h. die Summe der
+  zur unmittelbaren Erzeugung der Nutzenergie verwendeten Primär- und
+  Sekundärenergieträger, in privaten Haushalten je Einwohnerin und Einwohner.
+  Darunter fallen in erster Linie der Wärmebedarf für Heizung und Warmwasser
+  sowie die Energieverwendung für Kühlung, Kochen und Backen, Beleuchtung und
+  den Betrieb von Gebrauchsgegenständen. Davon ausgenommen ist der
+  Energieeinsatz für Mobilität, den die Energiebilanz dem Verwendungssektor
+  „Verkehr“ zurechnet.
+SDG_GOAL: >-
+  Als Ziel im Rahmen der Nachhaltigkeitsstrategie Hessen gilt, den EEV der
+  privaten Haushalte kontinuierlich abzusenken. Um Wettereinflüsse und andere
+  Effekte, die nicht im Kern die Lebensweise und Konsumgewohnheiten betreffen,
+  auszugleichen, wird die Zielerreichung hier anhand von gleitenden
+  Durchschnittswerten über jeweils 5 Jahre beurteilt.
+SDG_TARGET: >-
+  Die Konsumgewohnheiten der Endverbraucher betreffen neben Waren und
+  Dienstleistungen auch die Nutzung von Energie. Ein hoher Anteil nachhaltig
+  bereitgestellter Energie, also erneuerbare Primärenergieträger oder daraus
+  umgewandelte Sekundärenergieträger, ermöglicht, unsere Lebensweise auf lange
+  Sicht weiterzuentwickeln. Dies gelingt umso eher, je geringer der
+  Energiebedarf ist
+SDG_INDICATOR: >-
+  In Deutschland3) sank der EEV der privaten Haushalte von rund 2 890 Petajoule
+  im Jahr 1996 um 24 % auf rund 2 188 Petajoule im Jahr 2014, bevor er auf 2 320
+  Petajoule im Jahr 2018 stieg. Die Pro-Kopf-Werte lagen bis 2017 unter den
+  hessischen und 2018 erstmals geringfügig darüber. Sie gingen von 35,5
+  Gigajoule im Jahr 1996 auf 27,0 Gigajoule im Jahr 2014 zurück, bevor sie
+  wieder auf 28,0 Gigajoule im Jahr 2018 stiegen.
+SDG_SERIES_DESCR: ''
+META_LAST_UPDATE: ''
+SDG_RELATED_INDICATORS: ''
+CONTACT: >-
+  Arbeitskreis „Umweltökonomische Gesamtrechnungen der Länder“,
+  Arbeitsgemeinschaft Energiebilanzen.
+CONTACT_ORGANISATION: ''
+CONTACT_NAME: ''
+ORGANISATION_UNIT: ''
+CONTACT_FUNCT: ''
+CONTACT_PHONE: ''
+CONTACT_MAIL: ''
+CONTACT_EMAIL: ''
+IND_DEF_CON_CLASS: ''
+STAT_CONC_DEF: ''
+UNIT_MEASURE: ''
+CLASS_SYSTEM: ''
+SRC_TYPE_COLL_METHOD: ''
+SOURCE_TYPE: ''
+COLL_METHOD: ''
+FREQ_COLL: ''
+REL_CAL_POLICY: ''
+DATA_SOURCE: ''
+COMPILING_ORG: ''
+INST_MANDATE: ''
+OTHER_METHOD: ''
+RATIONALE: ''
+REC_USE_LIM: ''
+DATA_COMP: ''
+DATA_VALIDATION: ''
+DOC_METHOD: ''
+QUALITY_MGMNT: ''
+QUALITY_ASSURE: ''
+QUALITY_ASSMNT: ''
+COVERAGE: ''
+COMPARABILITY: ''
+OTHER_DOC: ''
+national_data_updated_date: '2023-11-05'
+national_metadata_updated_date: '2023-11-06'
+un_designated_tier: ''
