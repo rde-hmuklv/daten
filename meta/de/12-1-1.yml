@@ -4,8 +4,7 @@ goal: '12'
 indicator: '12.1.1'        
 indicator_display: '12.1.1'        
 indicator_sort_order: '12-1-1'        
-permalink: /12-1-a/        
-        
+permalink: /12-1-1/        
 
 #
 reporting_status: complete        
@@ -153,15 +152,3 @@ graph_stepsize:
 
 national_geographical_coverage: Deutschland                
 ---
-<div>
-  <div class="my-header">
-    <label class="default">Produkte mit Umweltzeichen: Steigerung des Marktanteils auf 34&nbsp;% bis 2030
-      <a href="https://dns-indikatoren.de/status"><img src="https://sdg-indikatoren.de/public/Wettersymbole/Wolke.png" title="Der Indikator entwickelte sich in 2019 zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung wäre das Ziel im Zieljahr aber um mehr als 20 % der Differenz zwischen Zielwert und dem Wert aus 2019 verfehlt worden." alt="Wettersymbol: Wolke"/>
-      </a>
-    </label>
-  </div>
-</div>
-<div class="my-header-note">
-  <label class="default"><b>(Bewertung aus dem Indikatorenbericht 2022, bezogen auf das Berichtsjahr 2019)
-  </b></label>
-</div>
