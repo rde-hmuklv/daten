@@ -24,4 +24,127 @@ indicator_name: Endenergieverbrauch der privaten Haushalte
 section: Nachhaltiger Konsum        
 postulate: Verantwortungsvolle Konsum- und Produktionsmuster
 
+target_id: 12.1.1        
+previous: 11-2.b        
+next: 12-1-2       
+
+#content         
+content_and_progress: 'Der Endenergieverbrauch der privaten Haushalte nimmt langsam ab und trägt so dazu bei, das definierte Ziel einer kontinuierlichen Absenkung erfolgreich zu verfolgen.'        
+
+embedded_feature_html: '<p>Zusätzliche Datenreihen zum Indikator finden Sie <a href="https://dns-indikatoren.de/public/AddInfos/de/12_1_1.pdf" target="_blank" >hier</a>.</p><br><small>Hinweis: PDF-Dokumente können Sie sich (je nach Browsereinstellung) direkt in Ihrem Browser anzeigen lassen oder Sie laden das PDF-Dokument herunter und öffnen es mit einem PDF-Reader Ihrer Wahl. Eine Anleitung wie Sie für ausgewählte Browser die entsprechende Einstellung ändern können, finden Sie <a href="https://dns-indikatoren.de/guidance/">hier</a>.</small>'
+embedded_feature_tab_title: Weitere Informationen        
+
+#Sources        
+
+source_active_1: true
+source_organisation_1: <a href="https://www.umweltbundesamt.de/" target="_blank" onclick="return confirm_alert('des Umweltbundesamts', 'De')">Umweltbundesamt</a>
+source_organisation_1_short: <a href="https://www.umweltbundesamt.de/" target="_blank" onclick="return confirm_alert('des Umweltbundesamts', 'De')">Umweltbundesamt</a>
+source_organisation_logo_1: <a href="https://www.umweltbundesamt.de/" target="_blank" onclick="return confirm_alert('des Umweltbundesamts', 'De')"><img src="https://dns-indikatoren.de/public/OrgImgDe/uba.png" alt="Umweltbundesamt" title=" Klicken Sie hier um zur Homepage der Organisation Umweltbundesamt zu gelangen." style="height:60px; width:148px; border:transparent"/></a>
+source_url_1: 'https://www.umweltbundesamt.de/daten/umweltindikatoren/indikator-umweltfreundlicher-konsum'
+source_url_text_1: Marktanteile von Produkten mit staatlichen Umweltzeichen, nach Umsätzen gewichtet
+source_url_alert_1: des Umweltbundesamts
+        
+
+#Status        
+
+
+weather_active_1: true
+weather_indicator_1: 12.1.a Marktanteil von Produkten mit staatlichen Umweltzeichen
+weather_indicator_1_year_a: 2019
+weather_indicator_1_year_b: 2018
+weather_indicator_1_year_c: 2017
+weather_indicator_1_year_d: 2016
+weather_indicator_1_year_e: 2015
+weather_indicator_1_year_f: 2014
+weather_indicator_1_year_g: 2013
+
+weather_indicator_1_target: Steigerung des Marktanteils auf 34&nbsp;% bis 2030
+
+weather_indicator_1_target_1: Steigerung des Marktanteils auf 34&nbsp;% bis 2030
+weather_indicator_1_target_1_category: normal
+weather_indicator_1_target_1_targetYear: 2030
+
+weather_indicator_1_target_1_item_a: Wolke
+weather_indicator_1_target_1_item_a_title: Der Indikator entwickelte sich in 2019 zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung wäre das Ziel im Zieljahr aber um mehr als 20 % der Differenz zwischen Zielwert und dem Wert aus 2019 verfehlt worden.
+weather_indicator_1_target_1_item_a_valid: true
+weather_indicator_1_target_1_item_b: Wolke
+weather_indicator_1_target_1_item_b_title: Der Indikator entwickelte sich in 2018 zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung wäre das Ziel im Zieljahr aber um mehr als 20 % der Differenz zwischen Zielwert und dem Wert aus 2018 verfehlt worden.
+weather_indicator_1_target_1_item_b_valid: true
+weather_indicator_1_target_1_item_c: Wolke
+weather_indicator_1_target_1_item_c_title: Der Indikator entwickelte sich in 2017 zwar in die gewünschte Richtung auf das Ziel zu, bei Fortsetzung der Entwicklung wäre das Ziel im Zieljahr aber um mehr als 20 % der Differenz zwischen Zielwert und dem Wert aus 2017 verfehlt worden.
+weather_indicator_1_target_1_item_c_valid: true
+weather_indicator_1_target_1_item_d: Keine
+weather_indicator_1_target_1_item_d_title: Keine Bewertung möglich.
+weather_indicator_1_target_1_item_d_valid: true
+weather_indicator_1_target_1_item_e: 
+weather_indicator_1_target_1_item_e_title: 
+weather_indicator_1_target_1_item_e_valid: true
+weather_indicator_1_target_1_item_f: 
+weather_indicator_1_target_1_item_f_title: 
+weather_indicator_1_target_1_item_f_valid: true
+weather_indicator_1_target_1_item_g: 
+weather_indicator_1_target_1_item_g_title: 
+weather_indicator_1_target_1_item_g_valid: true        
+
+graph_target_points:
+  - type: box
+    xMin: 8.685
+    xMax: 9.315
+    yMin: 0
+    yMax: 34
+    borderColor: "#bf8b2e"
+    backgroundColor: transparent
+    borderDash: [1, 0]
+    borderWidth: 2
+    preset: target_points
+  - type: label
+    xValue: 9
+    yValue: 37.0
+    backgroundColor: transparent
+    content: ['Ziel:','34']
+    font: {
+      size: 14
+      }
+    borderColor: transparent        
+
+data_show_map: false        
+copyright: '&copy; Statistisches Bundesamt (Destatis), 2023'        
+
+data_footnote: Teilweise korrigierte Daten.        
+
+graph_title: Marktanteil von Produkten mit staatlichen Umweltzeichen        
+
+        
+
+
+graph_annotations:
+  - value: 34
+    label:
+      content: Ziel 2030
+      position: left
+      backgroundColor: transparent
+      color: transparent
+    preset: target_line
+    borderColor: transparent        
+
+precision: 
+  - decimals: 1.0
+            
+
+span_gaps: true        
+show_line: true        
+
+graph_type: bar        
+
+data_start_values: 
+  - field: time series
+    value: market share of products certified by publicly managed eco-labelling schemes        
+
+graph_limits: 
+  - minimum: 0.0
+    maximum: 50.0        
+
+graph_stepsize: 
+  - step: 5.0
+
 national_geographical_coverage: Hessen
