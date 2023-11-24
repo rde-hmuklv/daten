@@ -1,5 +1,4 @@
 ---
-
 layout: indicator        
 goal: '12'        
 indicator: '12.1.1'        
@@ -154,8 +153,6 @@ graph_stepsize:
 
 national_geographical_coverage: Deutschland                
 ---
-
-
 <div>
   <div class="my-header">
     <label class="default">Produkte mit Umweltzeichen: Steigerung des Marktanteils auf 34&nbsp;% bis 2030
