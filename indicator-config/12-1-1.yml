@@ -5,8 +5,7 @@ unit: Total
 reporting_status: complete
 data_start_values:
   - field: Ort
-    value:  - Hessen
-            - Deutschland
+    value: ['Hessen', 'Deutschland']
 composite_breakdown_label: ''
 copyright: ''
 data_footnote: ''
