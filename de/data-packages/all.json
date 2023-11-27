@@ -384,7 +384,7 @@
           }
         ]
       },
-      "title": "Anteil der Nachhaltigkeitsindikatoren, die auf nationaler Ebene vollständig - sofern gemäß dem Unterziel relevant - disaggregiert sind, in Übereinstimmung mit den Grundprinzipien der amtlichen Statistik"
+      "title": "global_indicators.17-18-1-title"
     },
     {
       "path": "2-c-1/data.csv",
@@ -2376,7 +2376,7 @@
           }
         ]
       },
-      "title": "Anteil der wiederkehrenden staatlichen und Investitionsausgaben für Sektoren, die überdurchschnittlich Frauen, Arme und benachteiligte Gruppen begünstigen"
+      "title": "global_indicators.1-b-1-title"
     },
     {
       "path": "17-1-1/data.csv",
